@@ -1,1 +1,0 @@
-SELECT * FROM ola.driver1;
