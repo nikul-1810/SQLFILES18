@@ -1,1 +1,0 @@
-SELECT * FROM ola.passenger1;
